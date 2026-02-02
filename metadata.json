@@ -1,0 +1,8 @@
+
+{
+  "name": "Google Scripts Code Assistant",
+  "description": "An AI-powered assistant to help you write, understand, and debug Google Apps Script code. It is fluent in both Russian and English, providing code examples and explanations in your preferred language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
